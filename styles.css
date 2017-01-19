@@ -1,0 +1,46 @@
+.jumbotron {
+  background-color: yellow;
+  background-image:url(teamphoto.jpg);
+  background-size: cover;
+  height: 200px;
+}
+
+h1 {
+  height: 50px;
+  color: yellow;
+  font-family: 'Play', sans-serif;
+  font-weight: 500;
+  background-size: auto;
+  background-color: rgba(93, 41, 185, 0.96);
+}
+
+img {
+  width: 200px;
+  border-color: rgba(93, 41, 185, 0.96);
+  border-width: thick;
+  border-style: groove;
+}
+
+  body
+  { padding-bottom: 70px; }
+
+  li {
+    list-style-type: none;
+}
+
+body {
+  font-family: 'Jaldi', sans-serif;
+  font-weight: 500;
+}
+
+#helpfullinks {
+  border-color: rgba(93, 41, 185, 0.96);
+  border-width: thick;
+  border-style: groove;
+}
+
+
+#button1 {
+  color: yellow;
+  background-color: rgba(93, 41, 185, 0.96);
+}
